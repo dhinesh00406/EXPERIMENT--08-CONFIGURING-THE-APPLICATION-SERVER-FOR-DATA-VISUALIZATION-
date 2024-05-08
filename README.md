@@ -1,5 +1,7 @@
-# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+## DEVELOP BY:P.DHINESH
+## REG NO:212222043001
+## EXPERIMENT--08
+## CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :

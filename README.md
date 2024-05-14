@@ -1,3 +1,5 @@
+### NAME:DHINESH.P
+### REGNO:212222043001
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
